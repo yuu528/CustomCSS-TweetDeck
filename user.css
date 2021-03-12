@@ -1,0 +1,78 @@
+html {
+    color: #ebdbb2 !important;
+}
+
+.app-header {
+    background-color: #111313 !important;
+}
+
+.app-title,
+.app-header,
+.app-navigator,
+.column-nav-item,
+.column-panel,
+.column-header {
+    background-color: #111313 !important;
+}
+
+#container,
+.app-content {
+    background-color: #050606 !important;
+}
+
+.compose,
+.old-composer-footer,
+.stream-item {
+    background-color: #1d2021 !important;
+}
+
+.app-search-fake,
+.app-nav-link,
+.app-nav-tab,
+.icon-sliders {
+    color: #b8bb26 !important;
+}
+
+.app-search-fake {
+    border: 1px solid #b8bb26 !important;
+}
+
+.fullname,
+.account-link {
+    color: #8ec07c !important;
+}
+
+.nbfc,
+.username,
+.txt-mute,
+.txt-mute a {
+    color: #928374 !important;
+}
+
+.tweet {
+    color: #ebdbb2;
+}
+
+.url-ext,
+.link-complex,
+.color-twitter-blue {
+    color: #458588 !important;
+}
+
+.tweet-button {
+    background-color: #b8bb26 !important;
+    border: 1px solid #b8bb26 !important;
+}
+
+.app-columns {
+    padding: 0 0 0 1px !important;
+}
+
+.column {
+    margin: 0 1px 0 0 !important;
+}
+
+.scroll-styled-v,
+.scroll-styled-h {
+    scrollbar-color: #343332 transparent !important;
+}
