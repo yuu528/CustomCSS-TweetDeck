@@ -7,7 +7,9 @@ html {
 .app-navigator,
 .column-nav-item,
 .column-panel,
-.column-header {
+.column-header,
+.column-title-edit-box,
+.scroll-conversation {
     background-color: #111313 !important;
 }
 
@@ -18,8 +20,15 @@ html {
 
 .compose,
 .old-composer-footer,
-.stream-item {
+.stream-item,
+.bg-color-twitter-midnight-dark-gray,
+.column-message {
     background-color: #1d2021 !important;
+}
+
+.border-divider,
+.with-column-divider-bottom {
+    border-bottom: 1px solid #000 !important;
 }
 
 .app-search-fake,
@@ -70,5 +79,6 @@ html {
 
 .scroll-styled-v,
 .scroll-styled-h {
+    scrollbar-width: thin;
     scrollbar-color: #343332 transparent !important;
 }
